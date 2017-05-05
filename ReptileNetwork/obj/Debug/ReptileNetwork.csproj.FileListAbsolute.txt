@@ -1,0 +1,9 @@
+F:\exercise\ReptileNetwork\ReptileNetwork\bin\Debug\ReptileNetwork.exe.config
+F:\exercise\ReptileNetwork\ReptileNetwork\bin\Debug\ReptileNetwork.exe
+F:\exercise\ReptileNetwork\ReptileNetwork\bin\Debug\ReptileNetwork.pdb
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.csprojResolveAssemblyReference.cache
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.Main.resources
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.Properties.Resources.resources
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.csproj.GenerateResource.Cache
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.exe
+F:\exercise\ReptileNetwork\ReptileNetwork\obj\Debug\ReptileNetwork.pdb
